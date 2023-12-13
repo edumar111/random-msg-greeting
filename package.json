@@ -1,0 +1,27 @@
+{
+  "name": "random-msg-greeting",
+  "version": "1.0.0",
+  "description": "## init proyecto      npm init -y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edumar111/random-msg-greeting.git"
+  },
+  "keywords": [],
+  "author": "Eduardo Marchena <edumar111@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edumar111/random-msg-greeting/issues"
+  },
+  "homepage": "https://github.com/edumar111/random-msg-greeting#readme",
+  "bin": {
+    "random-msg-greeting": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
